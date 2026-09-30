@@ -1,0 +1,28 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Contact";
+}
+<link rel="stylesheet" href="./css/Contact.css" />
+<div class="contain">
+    <div class="contain2">
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <h1>CONTACT US</h1>
+            <div class="formin">
+                <input type="hidden" name="access_key" value="295344c3-88f2-4ce9-b569-cf611ff9c531">
+            <span class="1"><input type="text" name="Firstname" placeholder="First Name" id="firstname" required/>
+                    <input type="text" name="Lastname" placeholder="Last Name" id="lastname" required />
+                </span>
+                <input type="email" name="Email" placeholder="Email" id="email" required />
+                <input type="text" name="Phone" placeholder="Phone Number" id="phone" required />
+                <input type="text" name="Message"  id="message" placeholder="Message" />
+            <input type="submit" id="button" value="SUBMIT" />
+            </div>
+        </form>
+        <div class="image"><img src="./Icons/122351625409597.jpg" /></div>
+    </div>
+
+
+
+</div>
+

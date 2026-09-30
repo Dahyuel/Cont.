@@ -1,0 +1,20 @@
+﻿@page
+@model Cont.Pages.LoginModel
+@{
+	ViewData["Title"] = "Login";
+}
+<link rel="stylesheet" href="./css/Login.css" />
+<div class="main">
+	<div class="contain">
+		<h1>Login</h1>
+		<form>
+			<span class="inputs">
+				<input placeholder="Username" class="username" id="username" required />
+			<input type="password" placeholder="Password" id="Password" class="Password"/>
+				<input type="submit" value="Login" class="submit" id="Submit" />
+			</span>
+			<p>Create A New Account ? <a asp-area="" asp-page="/Register">Register</a></p>
+		</form>
+	</div>
+
+</div>

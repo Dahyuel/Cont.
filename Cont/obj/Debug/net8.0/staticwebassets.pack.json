@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Cont.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cont.uijkjhtplm.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Countries\\Canada.html",
+      "PackagePath": "staticwebassets\\Countries\\Canada.html"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Countries\\China.html",
+      "PackagePath": "staticwebassets\\Countries\\China.html"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Countries\\Egypt.html",
+      "PackagePath": "staticwebassets\\Countries\\Egypt.html"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Countries\\Saudi Arabia.html",
+      "PackagePath": "staticwebassets\\Countries\\Saudi Arabia.html"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Countries\\Usa.html",
+      "PackagePath": "staticwebassets\\Countries\\Usa.html"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\073c22658e757bacd55237889c860ddc.jpg",
+      "PackagePath": "staticwebassets\\Icons\\073c22658e757bacd55237889c860ddc.jpg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\122351625409597.jpg",
+      "PackagePath": "staticwebassets\\Icons\\122351625409597.jpg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\140f06d511f2af7b6b8faea5946cfc75.jpg",
+      "PackagePath": "staticwebassets\\Icons\\140f06d511f2af7b6b8faea5946cfc75.jpg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\93c443cc429c053e920c2b28cd8f3e1b-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Icons\\93c443cc429c053e920c2b28cd8f3e1b-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Canada\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\Canada\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Canada\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\Canada\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Canada\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\Canada\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\China\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\China\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\China\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\China\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\China\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\China\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Cultural-Diversity-Accomodation.jpg",
+      "PackagePath": "staticwebassets\\Icons\\Cultural-Diversity-Accomodation.jpg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Egypt\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\Egypt\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Egypt\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\Egypt\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Egypt\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\Egypt\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags2\\0.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags2\\0.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags2\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags2\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags2\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags2\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags2\\3.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags2\\3.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags2\\4.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags2\\4.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags2\\5.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags2\\5.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags\\3.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags\\3.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags\\4.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags\\4.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Flags\\5.png",
+      "PackagePath": "staticwebassets\\Icons\\Flags\\5.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Footer Icons\\icons8-facebook-500.svg",
+      "PackagePath": "staticwebassets\\Icons\\Footer Icons\\icons8-facebook-500.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Footer Icons\\icons8-gmail-500.svg",
+      "PackagePath": "staticwebassets\\Icons\\Footer Icons\\icons8-gmail-500.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Footer Icons\\icons8-instagram-500.svg",
+      "PackagePath": "staticwebassets\\Icons\\Footer Icons\\icons8-instagram-500.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Footer Icons\\icons8-tiktok-500.svg",
+      "PackagePath": "staticwebassets\\Icons\\Footer Icons\\icons8-tiktok-500.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Footer Icons\\icons8-twitter-500.svg",
+      "PackagePath": "staticwebassets\\Icons\\Footer Icons\\icons8-twitter-500.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Footer Icons\\icons8-whatsapp-500.svg",
+      "PackagePath": "staticwebassets\\Icons\\Footer Icons\\icons8-whatsapp-500.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France2\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\France2\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France2\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\France2\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France2\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\France2\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\France\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\France\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France\\poster 2.png",
+      "PackagePath": "staticwebassets\\Icons\\France\\poster 2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\France\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\France\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Saudi Arabia\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\Saudi Arabia\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Saudi Arabia\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\Saudi Arabia\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Saudi Arabia\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\Saudi Arabia\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Us\\1.png",
+      "PackagePath": "staticwebassets\\Icons\\Us\\1.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Us\\2.png",
+      "PackagePath": "staticwebassets\\Icons\\Us\\2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\Us\\poster.png",
+      "PackagePath": "staticwebassets\\Icons\\Us\\poster.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\abstract-112-background-wallpaper-gradient_792836-192470.png",
+      "PackagePath": "staticwebassets\\Icons\\abstract-112-background-wallpaper-gradient_792836-192470.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\arrow_upward_24dp_0080FF_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets\\Icons\\arrow_upward_24dp_0080FF_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\e99c6d0c457273218fb779df4b4c52e3.jpg",
+      "PackagePath": "staticwebassets\\Icons\\e99c6d0c457273218fb779df4b4c52e3.jpg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\face_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets\\Icons\\face_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\istockphoto-1394476861-612x612-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Icons\\istockphoto-1394476861-612x612-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\logo.png",
+      "PackagePath": "staticwebassets\\Icons\\logo.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\search_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets\\Icons\\search_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\white logo 2.png",
+      "PackagePath": "staticwebassets\\Icons\\white logo 2.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\Icons\\white logo.png",
+      "PackagePath": "staticwebassets\\Icons\\white logo.png"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\cont.ico",
+      "PackagePath": "staticwebassets\\cont.ico"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Canada.css",
+      "PackagePath": "staticwebassets\\css\\Canada.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\China.css",
+      "PackagePath": "staticwebassets\\css\\China.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\Contact.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Cultures.css",
+      "PackagePath": "staticwebassets\\css\\Cultures.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Egypt.css",
+      "PackagePath": "staticwebassets\\css\\Egypt.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\France.css",
+      "PackagePath": "staticwebassets\\css\\France.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Saudi Arabia.css",
+      "PackagePath": "staticwebassets\\css\\Saudi Arabia.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\Us.css",
+      "PackagePath": "staticwebassets\\css\\Us.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\js\\form.js",
+      "PackagePath": "staticwebassets\\js\\form.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\white-logo.ico",
+      "PackagePath": "staticwebassets\\white-logo.ico"
+    },
+    {
+      "Id": "E:\\Neww Downn\\Compressed\\Cont\\Cont\\Cont\\wwwroot\\white-logo3.jpg",
+      "PackagePath": "staticwebassets\\white-logo3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Cont.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Cont.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Cont.props",
+      "PackagePath": "build\\Cont.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Cont.props",
+      "PackagePath": "buildMultiTargeting\\Cont.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Cont.props",
+      "PackagePath": "buildTransitive\\Cont.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
